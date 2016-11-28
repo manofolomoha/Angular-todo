@@ -1,0 +1,14 @@
+{
+  "name": "angular",
+  "description": "coursework project",
+  "main": "index.js",
+  "authors": [
+    "Manofolomoha"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/manofolomoha/Angular-todo",
+  "devDependencies": {
+    "bootstrap": "^3.3.7",
+    "angular": "^1.5.9"
+  }
+}
